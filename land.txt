@@ -1,0 +1,10 @@
+101,Kathmandu,South,4,10000,Available
+102,Dhangadhi,West,5,50000,Available
+103,Biratnagar,North,4,40000,Available
+104,Kathmandu,South,4,30000,Not Available
+105,Dhangadhi,West,2,60000,Not Available
+106,Kapilvastu,West,7,40000,Not Available
+107,Kathmandu,South,7,50000,Available
+108,Kathmandu,North,9,70000,Available
+109,Dhangadhi,North,5,25000,Available
+110,Kathmandu,South,3,23000,Not Available
