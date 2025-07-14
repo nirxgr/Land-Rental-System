@@ -1,1 +1,1 @@
-# Land-Rental-System
+# Land-Rental-System: A python project
